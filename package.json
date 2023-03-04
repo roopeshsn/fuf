@@ -1,0 +1,10 @@
+{
+  "name": "fuf",
+  "repository": "git@github.com:roopeshsn/fuf.git",
+  "author": "Roopesh Saravanan",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "fnf"
+  ]
+}
