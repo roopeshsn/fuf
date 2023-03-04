@@ -1,2 +1,2 @@
-export {default as useAuth} from './lib/auth'
-export {default as AuthProvider} from './lib/auth'
+export { useAuth } from './lib/auth'
+export { AuthProvider } from './lib/auth'
